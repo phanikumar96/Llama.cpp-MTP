@@ -1,5 +1,3 @@
-# Llama.cpp-MTP
-
 
 # Qwen3.6-27B MTP — llama.cpp on RunPod H100
 
